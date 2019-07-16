@@ -2,6 +2,11 @@
 
 A simple Calculator app created for a blog post at [testdriven.io](https://testdriven.io/blog/tdd-with-react-jest-and-enzyme-part-one/).
 
+
+## TODO
+- Remove the global and component level `css` 
+- Prepare a video walkthrough
+
 ## Local Setup
 
 ```sh
