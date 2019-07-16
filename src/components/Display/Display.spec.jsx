@@ -4,7 +4,7 @@ import Display from './Display';
 
 describe('Display', () => {
   let wrapper;
-  beforeEach(() => wrapper = shallow(<Display />));
+  beforeEach(() => wrapper = shallow(<Display displayValue={''} />));
 
   it('should render correctly', () => expect(wrapper).toMatchSnapshot());
 
